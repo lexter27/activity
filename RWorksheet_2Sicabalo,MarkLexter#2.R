@@ -122,5 +122,3 @@ pay [19] <- 90
 power <- data.frame(power_ranking, celebrity_name, pay)
 power 
 
-git config --global user.email "sicabalo4325@gmail.com"
-git config --global user.name "lexter27"
